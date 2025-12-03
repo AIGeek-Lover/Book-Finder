@@ -1,4 +1,4 @@
-#📚 Book Recommendation & Emotion Detection
+📚 Book Recommendation & Emotion Detection
 
 This repository contains a Jupyter notebook inspired by the freeCodeCamp tutorial (https://www.youtube.com/watch?v=Q7mS1VHm3Yw
 ), which uses a dataset created by Dylan J. Castillo. While the original walkthrough relies on OpenAI’s embedding model, this project explores a fully open-source alternative by using MiniLM-L6-v2 from HuggingFace for embeddings.
